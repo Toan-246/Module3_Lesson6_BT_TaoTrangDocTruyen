@@ -1,0 +1,21 @@
+body {
+    font-size: 120%;
+}
+
+.novel-title {
+    color: blue;
+}
+.author {
+    padding-left:1em;
+    font-style: italic;
+}
+li {
+    vertical-align: center;
+}
+li div {
+    vertical-align:center;
+}
+li img {
+    width: 200px;
+    height: 200px;
+}
